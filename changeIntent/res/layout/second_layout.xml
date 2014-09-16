@@ -10,7 +10,8 @@
 
     <TextView android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/second_page"/>
+        android:text="@string/second_page"
+        android:id="@+id/txt_2"/>
     <Button android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/return_page"
